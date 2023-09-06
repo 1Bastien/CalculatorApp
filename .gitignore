@@ -4,6 +4,7 @@
 /.project
 /.settings/
 .classpath
+.settings
 
 # Ignore les fichiers de sauvegarde et les fichiers temporaires
 *~
